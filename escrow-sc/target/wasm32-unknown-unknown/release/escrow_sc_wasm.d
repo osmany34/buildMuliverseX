@@ -1,0 +1,1 @@
+/home/osmanx/buildMuliverseX/escrow-sc/target/wasm32-unknown-unknown/release/escrow_sc_wasm.wasm: /home/osmanx/buildMuliverseX/escrow-sc/src/escrow_sc.rs /home/osmanx/buildMuliverseX/escrow-sc/wasm/src/lib.rs
